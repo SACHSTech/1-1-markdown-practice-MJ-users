@@ -51,21 +51,21 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 ### 4.2 West Coast Pioneers  
 - **N.W.A.** – brought gangsta rap to the forefront with _Straight Outta Compton_ (1988).  
 - **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
-- **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.  
+- **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.
 
 ## 5. Elements of Style  
 
-5.1 Lyrical Themes  
+### 5.1 Lyrical Themes  
 - Social commentary (racism, poverty, politics)  
 - Braggadocio and wordplay  
 - Storytelling and narratives  
 
-5.2 Production Techniques  
+### 5.2 Production Techniques  
 - Sampling from funk, jazz, and soul records  
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
 
-6. Regional Diversity in the Golden Age  
+# 6. Regional Diversity in the Golden Age  
 
 U.S. Map (image link: https://i.imgur.com/aLT8i1B.png)
 
