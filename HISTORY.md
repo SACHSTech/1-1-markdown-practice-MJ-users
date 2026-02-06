@@ -38,7 +38,7 @@ As hip hop gained traction, artists began recording tracks commercially.
 ## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
 ![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
-> "I never sleep, 'cause sleep is the cousin of death." - Nas, N.Y. State of Mind  
+> "I never sleep, 'cause sleep is the cousin of death." - Nas, _N.Y. State of Mind_  
 
 **The Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
@@ -65,7 +65,7 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
 
-# 6. Regional Diversity in the Golden Age  
+## 6. Regional Diversity in the Golden Age  
 
 ![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
@@ -76,22 +76,22 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 | Midwest    | Common, Bone Thugs-N-Harmony | [Resurrection][1], [E. 1999 Eternal][1]            |
 | South      | Outkast, Geto Boys           | [Southernplayalisticadillacmuzik][1]          | 
 
-# 7. Transition to the 2000s  
+## 7. Transition to the 2000s  
 
-By the late 1990s, the deaths of Tupac Shakur and The Notorious B.I.G. marked the tragic end of an era.  
-The industry shifted towards commercialization, with artists like Jay-Z and Eminem dominating charts.  
+By the late 1990s, the deaths of **Tupac Shakur** and **The Notorious B.I.G.** marked the tragic end of an era.  
+The industry shifted towards commercialization, with artists like **Jay-Z** and **Eminem** dominating charts.  
 
-Positives: Greater mainstream recognition, global spread of hip hop.  
-Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
+- Positives: Greater mainstream recognition, global spread of hip hop.  
+- Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
-8. Modern Hip Hop  
+## 8. Modern Hip Hop  
 
-Kendrick Lamar (image link: https://i.imgur.com/GFKOYTV.jpg)
+![Kendrick Lamar](https://i.imgur.com/GFKOYTV.jpg)
 
-“If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
+> “If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
 
-While many fans critique modern trap and pop-rap for its repetitiveness, artists like Kendrick Lamar have preserved a commitment to lyrical depth. good kid, m.A.A.d city (2012) and To Pimp a Butterfly (2015) are widely hailed as modern classics.  
+While many fans critique modern [trap](https://en.wikipedia.org/wiki/Trap_music) and [pop-rap](https://en.wikipedia.org/wiki/Pop_rap#:~:text=Pop%20rap%20(also%20known%20as,samples%20of%20various%20popular%20songs.)) for its repetitiveness, artists like [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar) have preserved a commitment to lyrical depth. _good kid_, _m.A.A.d_ city (2012) and _To Pimp a Butterfly_ (2015) are widely hailed as modern classics.  
 
-Kendrick also made history in 2018 when his album DAMN. won the Pulitzer Prize for Music — making him the first and only rapper ever to receive this honour. This recognition was groundbreaking, as it placed hip hop alongside classical and jazz works that traditionally dominate the award, further cementing its cultural legitimacy and artistic value.  
+Kendrick also made history in 2018 when his album DAMN. won the **Pulitzer Prize for Music** — making him the __first and only rapper ever to receive this honour__. This recognition was groundbreaking, as it placed hip hop alongside classical and jazz works that traditionally dominate the award, further cementing its cultural legitimacy and artistic value.  
 
 [1]: https://rickrolled.com/
