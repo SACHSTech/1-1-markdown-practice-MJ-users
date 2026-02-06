@@ -67,15 +67,16 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 # 6. Regional Diversity in the Golden Age  
 
-U.S. Map (image link: https://i.imgur.com/aLT8i1B.png)
+![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
-Region   | Key Artists            | Notable Albums  
-East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
-West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
-Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
-South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  
+| Region     | Key Artists                  | Notable Albums                           |
+| ---------- | :--------------------------: | :--------------------------------------: |
+| East Coast | Nas, Biggie, Wu-Tang Clan    | [Illmatic][1], [Ready to Die][1], [36 Chambers][1]      |
+| West Coast | Tupac, N.W.A., Ice Cube      | [All Eyez on Me][1], [Straight Outta Compton][1]   |
+| Midwest    | Common, Bone Thugs-N-Harmony | [Resurrection][1], [E. 1999 Eternal][1]            |
+| South      | Outkast, Geto Boys           | [Southernplayalisticadillacmuzik][1]          | 
 
-7. Transition to the 2000s  
+# 7. Transition to the 2000s  
 
 By the late 1990s, the deaths of Tupac Shakur and The Notorious B.I.G. marked the tragic end of an era.  
 The industry shifted towards commercialization, with artists like Jay-Z and Eminem dominating charts.  
@@ -92,3 +93,5 @@ Kendrick Lamar (image link: https://i.imgur.com/GFKOYTV.jpg)
 While many fans critique modern trap and pop-rap for its repetitiveness, artists like Kendrick Lamar have preserved a commitment to lyrical depth. good kid, m.A.A.d city (2012) and To Pimp a Butterfly (2015) are widely hailed as modern classics.  
 
 Kendrick also made history in 2018 when his album DAMN. won the Pulitzer Prize for Music — making him the first and only rapper ever to receive this honour. This recognition was groundbreaking, as it placed hip hop alongside classical and jazz works that traditionally dominate the award, further cementing its cultural legitimacy and artistic value.  
+
+[1]: https://rickrolled.com/
